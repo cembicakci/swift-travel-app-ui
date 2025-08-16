@@ -41,14 +41,14 @@ extension MockDataService {
                 location: "Lombok, Indonesia",
                 description: "",
                 amount: "$48",
-                image: .mountain_image_1
+                image: .mountain_image_2
             ),
             .init(
                 title: "Bromo Mountain",
                 location: "East Java, Indonesia",
                 description: "",
                 amount: "$34",
-                image: .mountain_image_2
+                image: .mountain_image_1
             )
         ]
     }
